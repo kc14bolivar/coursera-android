@@ -2,3 +2,145 @@ coursera-android
 ================
 
 Source Code for Android Course Example Applications
+
+Source Code Examples Help
+
+All the source code examples can be downloaded from Github at https://github.com/aporter/coursera-android
+
+You can also download a zip file containing this code at: https://github.com/aporter/coursera-android/archive/master.zip
+
+Week 1
+Introduction to the Android Platform
+HelloAndroid
+Development Environment
+TheAnswer
+Week 2
+Application Fundamentals
+AppFundamentalsVideoSourceExamples (NOTE: This is just a set of different source code files, not a complete Android project)
+The Activity Class
+MapLocation
+MapLocationFromContacts
+Week 3
+The Intent Class
+HelloAndroidWithLogin
+Permissions
+PermissionExampleBoom
+PermissionExampleBoomUser
+The Fragment Class
+FragmentDynamicLayout
+FragmentDynamicLayoutWithActionBar
+FragmentProgrammaticLayout
+FragmentQuoteViewerWithActivity
+FragmentStaticConfigLayout
+FragmentStaticLayout
+Week 4
+User Interface Classes
+google-play-services_lib NOTE: This is a library project used by some of the sample applications)
+HelloAndroidWithMenus
+UIAlertDialog
+UIAutoComplete
+UIButton
+UICheckBox
+UIDatePicker
+UIDatePickerFragment
+UIGallery
+UIGoogleMaps
+UIGridLayout
+UILinearLayout
+UIListView
+UIRadioGroup
+UIRatingsBar
+UIRelativeLayout
+UISampler
+UISpinner
+UITabLayout
+UITableLayout
+UITimePicker
+UITimePickerFragment
+UIToggleButton
+UIViewPager
+UIWebView
+Week 5
+User Notifications
+NotificationStatusBar
+NotificationStatusBarWithCustomView
+NotificationToast
+NotificationToastWithCustomView
+The BroadcastReceiver Class
+BcastRecCompBcast:
+BcastRecCompOrdBcast:
+BcastRecCompOrdBcastWithResRec:
+BcastRecSinBcastDynReg:
+BcastRecSinBcastStatReg:
+BcastRecStickyInt:
+Threads, AsyncTasks and Handlers
+ThreadingAsyncTask
+ThreadingHandlerMessages
+ThreadingHandlerRunnable
+ThreadingNoThreading
+ThreadingRunOnUiThread
+ThreadingSimple
+ThreadingViewPost
+Alarms
+AlarmCreateActivity
+Networking
+NetworkingAndroidHttpClient
+NetworkingAndroidHttpClientJSON
+NetworkingAndroidHttpClientXML
+NetworkingSockets
+NetworkingURL
+Week 6
+Graphics and Animation
+GraphicsBubbleProgram
+GraphicsBubbleXML
+GraphicsCanvasBubble
+GraphicsCanvasBubbleSurfaceView
+GraphicsFrameAnimation
+GraphicsPaint
+GraphicsShapeDraw
+GraphicsShapeDrawXML
+GraphicsTransitionDrawable
+GraphicsTweenAnimation
+GraphicsValueAnimator
+GraphicsViewPropertyAnimator
+Multi-touch and Gestures
+TouchGestureViewFlipperTest
+TouchGestures
+TouchIndicateTouchLocation
+MultiMedia
+AudioVideoAudioManager
+AudioVideoAudioRecording
+AudioVideoCamera
+AudioVideoRingtoneManager
+AudioVideoVideoPlay
+Week 7
+Location and Maps
+LocationGetLocation
+LocationGetLocationServices
+MapEarthQuakeMap
+Sensors
+SensorCompass
+SensorFilteredAccelerometer
+SensorShowValues
+Week 8
+Data Management
+DataManagementFileExternalMemory
+DataManagementFileInternalMemory
+DataManagementPreferenceActivity
+DataManagementSQL
+DataManagementSharedPreference
+The ContentProvider Class
+ContentProviderCustom
+ContentProviderCustomUser
+ContentProviderExample
+ContentProviderWithCursorLoader
+ContentProviderWithInsertionDeletion
+ContentProviderWithSimpleCursorAdapter
+The Service Class
+LoggingServiceExample
+LoggingServiceWithMessenger
+LoggingServiceWithMessengerClient
+MusicPlayingServiceExample
+ServiceWithIPCExampleClient
+ServiceWithIPCExampleService
+
